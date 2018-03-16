@@ -1,0 +1,19 @@
+{
+  "name": "async_await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async_github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardogcolombo/async_await.git"
+  },
+  "author": "ricardogcolombo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardogcolombo/async_await/issues"
+  },
+  "homepage": "https://github.com/ricardogcolombo/async_await#readme"
+}
